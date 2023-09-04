@@ -1,2 +1,2 @@
 # odin-recipes
-Repo for the Odin Pro. assignment!
+Repo for the Odin Project assignment!
