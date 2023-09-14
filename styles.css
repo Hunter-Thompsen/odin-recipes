@@ -14,6 +14,7 @@ h1 {
 
 h2 {
     text-align: center;
+    margin: 8px;
 }
 
 img {
@@ -26,8 +27,24 @@ img {
     display: block;
 }
 
+p {
+    text-align: center;
+}
+
+div {
+    display: block;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .rec {
     font-size: 24px;
     color: #ff9f08;
     font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+.lists{
+    border: 2px solid black;
+    margin-bottom: 5px;
 }
